@@ -1,2 +1,2 @@
 # one-bill
-Use multiple services one bill
+Use multiple services pay one bill
